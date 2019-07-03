@@ -1,7 +1,7 @@
 # RT
 A simple ray tracer.
 
-###Shapes:
+### Shapes:
 - sphere
 - plane
 - cone
@@ -9,17 +9,17 @@ A simple ray tracer.
 - square
 - disk
 
-###Lights:
+### Lights:
 - ambient
 - point
 - directional
 
-###Other:
+### Other:
 - antialiasing
 - reflections
 - shadows
 
-##Usage:
+## Usage:
 - download
 - in terminal:
 	make
