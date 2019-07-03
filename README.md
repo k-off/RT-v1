@@ -1,5 +1,6 @@
 # RT
 A simple ray tracer.
+
 ###Shapes:
 - sphere
 - plane
@@ -7,10 +8,12 @@ A simple ray tracer.
 - cylinder
 - square
 - disk
+
 ###Lights:
 - ambient
 - point
 - directional
+
 ###Other:
 - antialiasing
 - reflections
