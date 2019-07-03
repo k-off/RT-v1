@@ -1,0 +1,10 @@
+envr	| recur	: 10		| anti	: 3
+cmr	| pos	: 0, 30, -20	| direct : 30, 0, 0	| fov	: 1.125
+pln	| pos	: 0, 0, -20	| direct : 120, 0, 0	| color	: 255, 255, 255	| lent	: 50	| widt	: 50	| rfr	: 1 | opc : 0.9	| rfl :	0.2 | glossy : 0.5
+sph	| pos	: 0, 0, 20	| direct : 0, 0, 0	| color	: 100, 0, 100	| lent	: 5	| widt	: 0	| rfr	: 1 | opc : 0.1	| rfl :	0.4 | glossy : 0.9
+sqr	| pos	: -30, -30, 30	| direct : 0, 30, 0	| color	: 0, 150, 150	| lent	: 50	| widt	: 50	| rfr	: 1 | opc : 0.9	| rfl :	0.4 | glossy : 0.5
+dsk	| pos	: 30, 0, 30	| direct : 0, -60, 0	| color	: 0, 220, 0	| lent	: 25	| widt	: 25	| rfr	: 1 | opc : 0.9	| rfl :	0.4 | glossy : 0.5
+cone	| pos	: 0, 0, 50	| direct : 0, 0, 0	| color	: 0, 0, 0	| lent	: 1	| widt	: 1	| rfr	: 1 | opc : 0.9	| rfl :	0.4 | glossy : 0.9
+liamb	| pos	: 0, 0, 0	| direct : 0, 0, 0	| color	: 255, 255, 255	| inten	: 0.7
+lipnt	| pos	: -20, 40, 0	| direct : 0, 0, 0	| color	: 255, 255, 255	| inten	: 0.6
+lipnt	| pos	: 20, 40, 0	| direct : 0, 0, 0	| color	: 255, 255, 255	| inten	: 0.6

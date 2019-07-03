@@ -1,0 +1,4 @@
+envr	| recur : 1	| anti : 3
+cmr	| pos :	0, 1, 0	| direct : 0, 0, 0	| fov	: 1.125
+pln	| pos :	0, 0, 0	| direct : 90, 0, 0	| color	: 255, 255, 255	| lent	: 50 | widt : 50 | rfr : 1 | opc : 0.9 | rfl : 1 | glossy : 0.5
+liamb	| pos :	0, 0, 0	| direct : 0, 0, 0	| color	: 255, 255, 255	| inten	: 0.95

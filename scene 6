@@ -1,0 +1,36 @@
+envr	| recur	: 10		| anti	:	3
+cmr	| pos	: 0, 10, -40	| direct :	0, 0, 0		| fov	: 1.125
+
+pln	| pos	: 0, 0, 100	| direct :	0, 0, 0		| color	: 255, 255, 255	| lent	: 50	| widt	: 50	| rfr	: 1	| opc :	0.9	| rfl : 0.1	| glossy : 0.5
+pln	| pos	: 0, 0, 0	| direct :	90, 0, 0	| color	: 100, 0, 255	| lent	: 50	| widt	: 50	| rfr	: 1	| opc :	0.9	| rfl : 1.0	| glossy : 0.5
+pln	| pos	: 0, 20, 0	| direct :	90, 0, 180	| color	: 255, 125, 0	| lent	: 50	| widt	: 50	| rfr	: 1	| opc :	0.9	| rfl : 1.0	| glossy : 0.5
+sph	| pos	: -15, 0, 0	| direct :	0, 0, 0		| color	: 150, 150, 150	| lent	: 3	| widt	: 0	| rfr	: 1	| opc :	0.1	| rfl : 1.0	| glossy : 0.9
+sph	| pos	: 15, 0, 0	| direct :	0, 0, 0		| color	: 150, 150, 150	| lent	: 3	| widt	: 0	| rfr	: 1	| opc :	0.1	| rfl : 1.0	| glossy : 0.9
+sph	| pos	: -15, 0, 33	| direct :	0, 0, 0		| color	: 150, 150, 150	| lent	: 3	| widt	: 0	| rfr	: 1	| opc :	0.1	| rfl : 0.4	| glossy : 0.9
+sph	| pos	: 15, 0, 33	| direct :	0, 0, 0		| color	: 150, 150, 150	| lent	: 3	| widt	: 0	| rfr	: 1	| opc :	0.1	| rfl : 0.4	| glossy : 0.9
+sph	| pos	: -15, 0, 66	| direct :	0, 0, 0		| color	: 150, 150, 150	| lent	: 3	| widt	: 0	| rfr	: 1	| opc :	0.1	| rfl : 1.0	| glossy : 0.9
+sph	| pos	: 15, 0, 66	| direct :	0, 0, 0		| color	: 150, 150, 150	| lent	: 3	| widt	: 0	| rfr	: 1	| opc :	0.1	| rfl : 1.0	| glossy : 0.9
+sph	| pos	: -15, 20, 0	| direct :	0, 0, 0		| color	: 150, 150, 150	| lent	: 3	| widt	: 0	| rfr	: 1	| opc :	0.1	| rfl : 1.0	| glossy : 0.9
+sph	| pos	: 15, 20, 0	| direct :	0, 0, 0		| color	: 150, 150, 150	| lent	: 3	| widt	: 0	| rfr	: 1	| opc :	0.1	| rfl : 1.0	| glossy : 0.9
+sph	| pos	: -15, 20, 33	| direct :	0, 0, 0		| color	: 150, 150, 150	| lent	: 3	| widt	: 0	| rfr	: 1	| opc :	0.1	| rfl : 0.4	| glossy : 0.9
+sph	| pos	: 15, 20, 33	| direct :	0, 0, 0		| color	: 150, 150, 150	| lent	: 3	| widt	: 0	| rfr	: 1	| opc :	0.1	| rfl : 0.4	| glossy : 0.9
+sph	| pos	: -15, 20, 66	| direct :	0, 0, 0		| color	: 150, 150, 150	| lent	: 3	| widt	: 0	| rfr	: 1	| opc :	0.1	| rfl : 1.0	| glossy : 0.9
+sph	| pos	: 15, 20, 66	| direct :	0, 0, 0		| color	: 150, 150, 150	| lent	: 3	| widt	: 0	| rfr	: 1	| opc :	0.1	| rfl : 1.0	| glossy : 0.9
+
+clnd	| pos	: -15, 0, 0	| direct :	90, 0, 0	| color	: 150, 150, 150	| lent	: 3	| widt	: 2	| rfr	: 1	| opc :	1.0	| rfl : 1.0	| glossy : 0.9
+clnd	| pos	: 15, 0, 0	| direct :	90, 0, 0	| color	: 150, 150, 150	| lent	: 3	| widt	: 2	| rfr	: 1	| opc :	1.0	| rfl : 1.0	| glossy : 0.9
+clnd	| pos	: -15, 0, 33	| direct :	90, 0, 0	| color	: 150, 150, 150	| lent	: 3	| widt	: 2	| rfr	: 1	| opc :	0.1	| rfl : 0.4	| glossy : 0.9
+clnd	| pos	: 15, 0, 33	| direct :	90, 0, 0	| color	: 150, 150, 150	| lent	: 3	| widt	: 2	| rfr	: 1	| opc :	0.1	| rfl : 0.4	| glossy : 0.9
+clnd	| pos	: -15, 0, 66	| direct :	90, 0, 0	| color	: 150, 150, 150	| lent	: 3	| widt	: 2	| rfr	: 1	| opc :	0.1	| rfl : 1.0	| glossy : 0.9
+clnd	| pos	: 15, 0, 66	| direct :	90, 0, 0	| color	: 150, 150, 150	| lent	: 3	| widt	: 2	| rfr	: 1	| opc :	0.1	| rfl : 1.0	| glossy : 0.9
+
+#sqr	| pos	: -30, 5, 30	| direct :	0, 30, 0	| color	: 0, 150, 150	| lent	: 10	| widt	: 10	| rfr	: 1	| opc :	0.9	| rfl : 0.4	| glossy : 0.5
+#dsk	| pos	: 30, 10, 30	| direct :	0, 120, 0	| color	: 0, 220, 0	| lent	: 5	| widt	: 5	| rfr	: 1	| opc :	0.9	| rfl : 0.4	| glossy : 0.5
+cone	| pos	: -40, 10, 17	| direct :	90, 0, 30	| color	: 0, 0, 0	| lent	: 1	| widt	: 45	| rfr	: 1	| opc :	0.9	| rfl : 0.1	| glossy : 0.9
+cone	| pos	: 40, 10, 17	| direct :	90, 0, -30	| color	: 0, 0, 0	| lent	: 1	| widt	: 45	| rfr	: 1	| opc :	0.9	| rfl : 0.1	| glossy : 0.9
+
+liamb	| pos	: 0, 0, 0	| direct :	0, 0, 0		| color	: 255, 255, 255	| inten	: 0.1
+lipnt	| pos	: -20, 10, -5	| direct :	0, 0, 0		| color	: 255, 255, 255	| inten	: 0.6
+lipnt	| pos	: 20, 10, -5	| direct :	0, 0, 0		| color	: 255, 255, 255	| inten	: 0.6
+lipnt	| pos	: 0, 10, 79	| direct :	0, 0, 0		| color	: 255, 255, 255	| inten	: 0.6
+lipnt	| pos	: 0, 10, 17	| direct :	0, 0, 0		| color	: 255, 255, 255	| inten	: 0.6
