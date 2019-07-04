@@ -22,5 +22,6 @@ A simple ray tracer.
 ## Usage:
 - download
 - in terminal:
+
 	make
 	./RTv1 "scene x"
