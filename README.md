@@ -29,11 +29,11 @@ A simple ray tracer for mac.
 
 
 ### Keyboard:
-enter   - render full detail (slow)
-p       - preview (low detail, fast rendering)
-m       - show/hide menu
-wasd    - move object/camera, q and c for z-axis
-arrows  - rotate objrect/camera, right-ctrl and num0 for z-axis
-o       - switch to objects
-tab     - switch between objects
-k       - switch to camera
+- enter   - render full detail (slow)
+- p       - preview (low detail, fast rendering)
+- m       - show/hide menu
+- wasd    - move object/camera, q and c for z-axis
+- arrows  - rotate objrect/camera, right-ctrl and num0 for z-axis
+- o       - switch to objects
+- tab     - switch between objects
+- k       - switch to camera
