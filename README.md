@@ -26,9 +26,9 @@ A simple ray tracer for mac.
     cd <repository>
     make
     ./RTv1 "scene x"
-    ***after a black window pops up press `enter` for full detail rendering or `p` for fast preview***
 ```
-
+**after a black window pops up press `enter` for full detail rendering or `p` for fast preview**
+ 
 ### Keyboard:
 
 ```
