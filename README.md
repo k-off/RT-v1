@@ -1,6 +1,8 @@
 # RT-v1
 A simple ray tracer for mac.
 
+![alt text](https://repository-images.githubusercontent.com/190928812/693a2280-9de5-11e9-92cd-773b96835e32)
+
 ### Shapes:
 - sphere
 - plane
