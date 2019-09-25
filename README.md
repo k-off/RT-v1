@@ -1,4 +1,4 @@
-# RT
+# RT-v1
 A simple ray tracer for mac.
 
 ### Shapes:
@@ -20,13 +20,14 @@ A simple ray tracer for mac.
 - shadows
 
 ## Usage:
-- download
-- in terminal:
 
-        make
-        ./RTv1 "scene x"
-        press enter
-
+```
+    clone
+    cd <repository>
+    make
+    ./RTv1 "scene x"
+    **after a black window pops up press `enter` for full detail rendering or `p` for fast preview**
+```
 
 ### Keyboard:
 
