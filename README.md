@@ -29,7 +29,9 @@ A simple ray tracer for mac.
     make
     ./RTv1 "scene x"
 ```
-**after a black window pops up press `enter` for full detail rendering or `p` for fast preview**
+**after a black window pops up press `enter` for full detail rendering or `p` for the fast preview**
+
+Since the subject specifies that image has to be recalculated only only on our request, it is necessarry to press `enter` or `p` every time the camera (`k`) or an object (`o`) have been moved (`w`, `a`, `s`, `d`, `q`, `c` keys) or rotated (`arrow keys`, `right ctrl` and `num 0`).
  
 ### Keyboard:
 
